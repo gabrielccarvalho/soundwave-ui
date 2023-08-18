@@ -1,6 +1,7 @@
 {
   "name": "@soundwave-ui/eslint-config",
   "private": true,
+  "version": "2.0.0",
   "license": "ISC",
   "main": "index.js",
   "devDependencies": {
