@@ -1,0 +1,4 @@
+{
+  "extends": "@soundwave/ts-config/base.json",
+  "include": ["src"],
+}

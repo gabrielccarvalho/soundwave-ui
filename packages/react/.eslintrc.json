@@ -1,0 +1,3 @@
+{
+  "extends": "@soundwave/eslint-config"
+}
