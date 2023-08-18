@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@soundwave/tokens'
+} from '@soundwave-ui/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 

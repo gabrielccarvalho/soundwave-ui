@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps } from '@soundwave/react'
+import { Button, ButtonProps } from '@soundwave-ui/react'
 import { ArrowRight } from 'phosphor-react'
 
 export default {

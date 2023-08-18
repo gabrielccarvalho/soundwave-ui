@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@soundwave/react'
+import { Box, BoxProps, Text } from '@soundwave-ui/react'
 
 export default {
   title: 'Surfaces/Box',

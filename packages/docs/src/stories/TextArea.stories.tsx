@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@soundwave/react'
+import { Box, Text, TextArea, TextAreaProps } from '@soundwave-ui/react'
 
 export default {
   title: 'Form/Text Area',

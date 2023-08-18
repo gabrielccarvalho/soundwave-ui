@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@soundwave/react'
+import { Box, Text, TextInput, TextInputProps } from '@soundwave-ui/react'
 
 export default {
   title: 'Form/Text Input',

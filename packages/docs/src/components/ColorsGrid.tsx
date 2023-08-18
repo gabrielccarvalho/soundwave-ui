@@ -1,4 +1,4 @@
-import { colors } from '@soundwave/tokens'
+import { colors } from '@soundwave-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

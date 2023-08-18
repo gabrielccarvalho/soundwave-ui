@@ -1,5 +1,5 @@
 {
-  "name": "@soundwave/docs",
+  "name": "@soundwave-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@soundwave/eslint-config": "*",
-    "@soundwave/react": "*",
-    "@soundwave/tokens": "*",
-    "@soundwave/ts-config": "*",
+    "@soundwave-ui/eslint-config": "*",
+    "@soundwave-ui/react": "*",
+    "@soundwave-ui/tokens": "*",
+    "@soundwave-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.3.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@soundwave/react'
+import { Text, TextProps } from '@soundwave-ui/react'
 
 export default {
   title: 'Typography/Text',

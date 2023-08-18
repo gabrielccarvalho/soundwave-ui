@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@soundwave/react'
+import { Heading, HeadingProps } from '@soundwave-ui/react'
 
 export default {
   title: 'Typography/Heading',

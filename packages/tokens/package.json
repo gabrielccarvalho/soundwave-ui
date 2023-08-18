@@ -1,5 +1,5 @@
 {
-  "name": "@soundwave/tokens",
+  "name": "@soundwave-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@soundwave/ts-config": "*",
-    "@soundwave/eslint-config": "*",
+    "@soundwave-ui/ts-config": "*",
+    "@soundwave-ui/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }

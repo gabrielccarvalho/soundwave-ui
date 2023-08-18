@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, MultiStep, MultiStepProps } from '@soundwave/react'
+import { Box, Text, MultiStep, MultiStepProps } from '@soundwave-ui/react'
 
 export default {
   title: 'Form/Multi Step',

@@ -1,4 +1,4 @@
 {
-  "extends": "@soundwave/ts-config/react.json",
+  "extends": "@soundwave-ui/ts-config/react.json",
   "include": ["src"],
 }
